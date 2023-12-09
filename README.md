@@ -9,7 +9,7 @@ This webpage was written to serve three purposes:
 - To practice the techniques and skills necessary to build a website.
 - To showcase mastery over the subject matter contained within the study guide.
 
-In making this webpage I learned a lot about JavaScript and the importance of accessibilty in a website.Currently the webpage hosts very little functionality and this section will update as it is added
+In making this webpage I learned a lot about JavaScript and the importance of accessibilty in a website. Currently the webpage hosts very little functionality and this section will update as it is added
 
 ## Installation
 
